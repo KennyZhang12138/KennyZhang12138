@@ -2,7 +2,8 @@
 - 👀 I’m interested in coding reight now.
 - 🌱 I’m currently learning JAVA. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me kenny.zhang12138@gmail.com
+- 
 
 <!---
 KennyZhang12138/KennyZhang12138 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
