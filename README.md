@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KennyZhang12138
-- 👀 I’m interested in coding reight now.
+- 👀 I’m interested in coding right now.
 - 🌱 I’m currently learning JAVA. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kenny.zhang12138@gmail.com
